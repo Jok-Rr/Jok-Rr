@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, NextJs, TailwindCss**
 
-- 👨‍💻 All of my projects are available at [https://nextjs-portfolio-ten-ochre.vercel.app/](https://nextjs-portfolio-ten-ochre.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tombost.fr](https://tombost.fr)
 
 - 📫 How to reach me **tom.bost.pro@gmail.com**
 
